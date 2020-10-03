@@ -24,6 +24,3 @@ function fib(n) {
         }
       }
 
-console.log(fiboRecurs(20))
-// return n <= 1 ? n : fiboRecurs(n - 1) + fiboRecurs(n - 2);}
-// console.log(fiboRecurs(20))
